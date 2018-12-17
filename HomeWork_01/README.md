@@ -1,6 +1,6 @@
-#Node.Js Master Class HomeWork Assignment #1 - "Hello World!"
+# Node.Js Master Class HomeWork Assignment #1 - "Hello World!"
 
-#The Assignment:
+# The Assignment:
 
 Please create a simple "Hello World" API. Meaning:
 
