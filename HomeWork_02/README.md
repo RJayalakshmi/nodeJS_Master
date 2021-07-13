@@ -28,6 +28,7 @@ And please: Don't forget to document how a client should interact with the API y
 
 # config
 Update Strip and Mailgun sandbox account details in the file "lib/config.js"
+  NOTE: As Mailgun sandbox account sends email only to your own authorized emails, update your Mailgun account details to test order receipt email feature and use email address authorized in your Mailgun account while register user.
 
 # Project Flow
   Step 1: User Registration
