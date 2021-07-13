@@ -27,15 +27,21 @@ This is an open-ended assignment. You may take any direction you'd like to go wi
 And please: Don't forget to document how a client should interact with the API you create!
 
 # config
-Update Strip and Mailgun sandbox account details in the file "lib/config.js"
+  Update Strip and Mailgun sandbox account details in the file "lib/config.js"
+
   NOTE: As Mailgun sandbox account sends email only to your own authorized emails, update your Mailgun account details to test order receipt email feature and use email address authorized in your Mailgun account while register user.
 
 # Project Flow
   Step 1: User Registration
+
   Step 2: User Login - Upon succesful login, user receives menu list and an Authorization Token
+
   Step 3: Add item into shopping cart
+
   Step 4: Update shopping cart if needed
+
   Step 5: Place Order - Upon successful order, order recipt mailed to user's registered email.
+
   Step 6: View Orders
 
   In addition, user can update their profile, get refreshed authorized token and view shopping cart.
@@ -44,5 +50,6 @@ Update Strip and Mailgun sandbox account details in the file "lib/config.js"
 
 # Postman Collection
   Use below collection link to install end points into postman
+
   https://www.getpostman.com/collections/93fe4d00513ea8774786   
 
